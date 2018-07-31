@@ -1,0 +1,31 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>Title</th>
+            <th>Rating</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each movie}}
+        <tr>
+            <td>{{this.id}}</td>
+            <td>{{this.title}}</td>
+            <td>{{this.rating}}/10</td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+
+<form id="movie-form" name="movie-form">
+    <div class="form-group">
+        <label for="movie-title">Movie Title</label>
+        <input type="text" class="form-control" id="movie-title" placeholder="Enter title">
+    </div>
+    <div class="form-group">
+        <label for="movie-rating">Rating</label>
+        <input type="text" class="form-control" id="movie-rating" aria-describedby="rating-help" placeholder="Enter rating">
+        <small id="rating-help" class="form-text text-muted">Please rate movie out of 10</small>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

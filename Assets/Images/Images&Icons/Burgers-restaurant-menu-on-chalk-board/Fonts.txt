@@ -1,0 +1,14 @@
+Fonts used in this design;
+
+Font: Bahiana, 
+Author: Omnibus Type, 
+Url: http://www.fontsquirrel.com/fonts/bahiana; 
+
+Font: Londrina, 
+Author: Marcelo Magalhães, 
+Url: http://www.fontsquirrel.com/fonts/londrina; 
+
+Font: Roboto, 
+Author: Christian Robertson, 
+Url: http://www.fontsquirrel.com/fonts/roboto; 
+
