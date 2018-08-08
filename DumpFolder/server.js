@@ -38,8 +38,7 @@ require("./routes/apiRoutes.js")(app);
 
 var syncOptions = { force: false };
 
-// If running a test, set syncOptions.force to true
-// clearing the `testdb`
+// If running a test, set syncOptions.force to true to clear the db
 if (process.env.NODE_ENV === "test") {
   syncOptions.force = true;
 }
