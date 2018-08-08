@@ -23,15 +23,6 @@ app.use(session({ secret: "keyboard cat", resave: true, saveUninitialized: true 
 app.use(passport.initialize());
 app.use(passport.session());
 
-// Handlebars
-// app.engine(
-//   "handlebars",
-//   exphbs({
-//     defaultLayout: "main"
-//   })
-// );
-// app.set("view engine", "handlebars"); If we don't add handlebars we can remove this
-
 // Requiring our routes
 require("./routes/htmlRoutes.js")(app);
 require("./routes/apiRoutes.js")(app);

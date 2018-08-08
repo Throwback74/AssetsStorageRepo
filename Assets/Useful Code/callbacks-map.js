@@ -2,6 +2,7 @@ var myArray = [1, 2, 3];
 
 var map = function (inputArray, callback, print) {
     var newArr = [];
+    
     if(print) {
         for (var i = 0; i < inputArray.length; i++) {
             newArr.push(print(callback(inputArray[i])));
