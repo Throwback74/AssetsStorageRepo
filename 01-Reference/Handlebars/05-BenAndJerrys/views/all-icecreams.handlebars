@@ -1,0 +1,19 @@
+<style media="screen">
+  div {
+    height : 160px;
+    width: 100px;
+    color: rgb(44, 14, 175);
+    background-color: rgb(201, 51, 201);
+    margin-bottom: 30px;
+  }
+</style>
+
+<h1>Full Ice Cream Menu</h1>
+
+<div>
+{{#each foods }}
+  <p>IceCream: {{name}}</p>
+    <p>Price:{{price}}</p>
+    <p>Awesomeness:{{awesomeness}}</p>
+{{/each}}
+</div>
