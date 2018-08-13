@@ -59,7 +59,7 @@ app.post("/api/movie", function(req, res){
   db.Movie.create(req.body)
     .then(function(){
       // res.json(dbMovie);
-      res.redirect("/")
+      res.redirect("/");
     }).catch(function(err){
       res.status(400).send(err);
     });

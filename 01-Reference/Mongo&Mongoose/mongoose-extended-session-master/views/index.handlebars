@@ -10,20 +10,20 @@
         </tr>
     </thead>
     <tbody>
-        {{#each movie}}
+        {{#each article}}
         <tr>
             <td>{{this._id}}</td>
             <td>{{this.title}}</td>
             <td>{{this.director}}</td>
             <td>{{this.rating}}/10</td>
             <td>
-                <button class="movie-favorite" data-id={{this._id}}>Favorite Movie</button>
+                <button class="article-favorite" data-id={{this._id}}>Favorite Movie</button>
             </td>
         </tr>
         {{/each}}
     </tbody>
 </table>
-<form action="/api/movie" method="post">
+<form action="/api/article" method="post">
     <div class="form-group">
         <label for="titleInput">Title</label>
         <input type="text" class="form-control" id="titleInput" name="title" placeholder="Enter title">
