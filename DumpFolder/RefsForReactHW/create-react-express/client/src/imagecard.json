@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "name": "Jack Skellington",
+    "image": "/Images/jack.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sally",
+    "image": "/Images/sally.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Oogie Boogie",
+    "image": "/Images/oogie-boogie.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sandy Claws",
+    "image": "/Images/sandy-claws.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wolfman",
+    "image": "/Images/wolfman.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Finklestein",
+    "image": "/Images/dr-finklestein.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lock",
+    "image": "/Images/lock.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mayor",
+    "image": "/Images/mayor.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Barrel",
+    "image": "/Images/barrel.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Behemoth",
+    "image": "/Images/behemoth.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Big Witch",
+    "image": "/Images/big-witch.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shock",
+    "image": "/Images/shock.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Small Witch",
+    "image": "/Images/small-witch.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Undersea Gal",
+    "image": "/Images/undersea-gal.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Vampire_1",
+    "image": "/Images/vampire-1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Vampire_2",
+    "image": "/Images/vampire-2.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Vampire_3",
+    "image": "/Images/vampire-3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Withered Wing Demon",
+    "image": "/Images/withered-wing-demon.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sax Player",
+    "image": "/Images/sax-player.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Mummy",
+    "image": "/Images/mummy.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Sax Player",
+    "image": "/Images/sax-player.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Accordian Player",
+    "image": "/Images/accordian-player.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Clown w/ the Tear away Face",
+    "image": "/Images/clown-WtTAW-face.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Corpse Dad",
+    "image": "/Images/corpse-dad.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Corpse Kid",
+    "image": "/Images/corpse-kid.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Corpse Mom",
+    "image": "/Images/corpse-mom.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Devil",
+    "image": "/Images/devil.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Harlequin Demon",
+    "image": "/Images/harlequin-demon.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Man Under the Bed",
+    "image": "/Images/man-under-the-bed.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Man Under the Stairs",
+    "image": "/Images/man-under-the-stairs.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Mr. Hyde",
+    "image": "/Images/mr-hyde.jpg"
+  }
+]

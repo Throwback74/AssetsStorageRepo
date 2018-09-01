@@ -1,0 +1,14 @@
+.footer {
+  max-height: 70px !important;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.bottom {
+  font-size: 14px;
+  height: 50px;
+}
+
+.App-logo {
+  zoom: 25%;
+}

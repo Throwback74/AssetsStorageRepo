@@ -1,0 +1,10 @@
+.imgClass {
+  position: relative;
+  width: 130px;
+  height: 150px;
+  background-color: #222222;
+}
+
+.img-container {
+  margin-top: 8px;
+}
